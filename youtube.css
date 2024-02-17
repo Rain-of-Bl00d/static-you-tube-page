@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-sec {
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.button {
+    margin: 5px;
+    height: 35px;
+    background-color: #dcdcdc;
+    border-width: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.card1 {
+    background-image: url('https://www.zenesys.com/getattachment/0d47a084-c9f0-4afb-84ca-2f0535855124/How-to-build-a-food-delivery-app-like-zomato.png?lang=en-US&ext=.png');
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 250px;
+}
+
+.zomato-button {
+    font-size: 8.7px;
+    background-color: red;
+    color: white;
+    height: 35px;
+    width: 39px;
+    border-width: 0px;
+    margin: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.zom-para {
+    margin: 4px;
+    font-weight: bold;
+}
+
+.zom-para2 {
+    color: grey;
+    font-size: 13px;
+}
+
+.zom-bot1 {
+    color: blue;
+    background-color: white;
+    height: 35px;
+    width: 120px;
+    border-width: .3px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.zom-bot2 {
+    height: 35px;
+    width: 120px;
+    border-width: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+
+.shorts1 {
+    margin: 5px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Grappler_Baki_DVD_Vol._1.jpg/220px-Grappler_Baki_DVD_Vol._1.jpg');
+    height: 250px;
+    width: 200px;
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.shorts2 {
+    margin: 5px;
+    background-image: url('https://qph.cf2.quoracdn.net/main-qimg-2f7327f34d1fad29a4809057e7c84241-pjlq');
+    height: 250px;
+    width: 200px;
+    border: 2px;
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.shorts3 {
+    margin: 5px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr50mgYrZUQ8ehkJp68X4pCWLlkaXk5kpfLQ&usqp=CAU');
+    height: 250px;
+    width: 200px;
+    border: 2px;
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.shorts4 {
+    margin: 5px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbjt-IyE3DHMhELfM0ugFkceyqeAYfqMKclg&usqp=CAU');
+    height: 250px;
+    width: 200px;
+    border: 2px;
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.Akatsuki-button {
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    margin: 5px;
+    height: 40px;
+    width: 40px;
+    background-size: cover;
+    background-position: center;
+    background-image: url('https://yt3.googleusercontent.com/5_u-QgybejyVeOmfEh7wLhNZo3xxHA8G_cpGRG1zaMhoAvhfdMIMlE1S1mI70TQ45-3iuij3=s176-c-k-c0x00ffffff-no-rj');
+}
